@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Light Meter</string>
+    <string name="minimum">минимум</string>
+    <string name="average">среднее</string>
+    <string name="maximum">максимум</string>
+    <string name="clear">очистить</string>
+    <string name="save">сохранить</string>
+    <string name="error">ошибка</string>
+    <string name="delete">удалить</string>
+    <string name="clear_all">удалить все</string>
+    <string name="sensor_not_detected">датчик не обнаружен</string>
+    <string name="not_saved_data">нет сохраненных данных</string>
+    <string name="lx">лк</string>
+    <string name="lux_lx">Люкс(лк)</string>
+</resources>

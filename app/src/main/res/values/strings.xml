@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Light Meter</string>
+    <string name="minimum">minimum</string>
+    <string name="average">average</string>
+    <string name="maximum">maximum</string>
+    <string name="lux_lx">Lux (lx)</string>
+    <string name="clear">clear</string>
+    <string name="save">Save</string>
+    <string name="title_activity_recycler" translatable="false">Light Meter</string>
+    <string name="error">Error</string>
+    <string name="delete">Delete</string>
+    <string name="clear_all">clear all</string>
+    <string name="not_saved_data">not saved data</string>
+    <string name="sensor_not_detected">sensor not detected</string>
+    <string name="lx">lx</string>
+</resources>
